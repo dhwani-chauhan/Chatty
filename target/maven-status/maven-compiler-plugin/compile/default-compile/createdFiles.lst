@@ -1,0 +1,5 @@
+com\main\chatty\ClientInitializer.class
+module-info.class
+com\main\chatty\Controller\ClientController.class
+com\main\chatty\ServerInitializer.class
+com\main\chatty\Controller\ServerController.class
